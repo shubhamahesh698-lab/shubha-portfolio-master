@@ -136,7 +136,7 @@ const translations = {
       download: 'Download Resume',
       jobs: [
         {
-          title: 'Student Assistant',
+          title: 'Student Assistant 1',
           company: 'West Saxon University of Applied Sciences Zwickau',
           duration: '06/2025 - Present'
         },
