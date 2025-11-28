@@ -132,11 +132,11 @@ const translations = {
     },
     experience: {
       title: 'Professional Experience',
-      description: 'Dynamic and user-centric software professional with strong expertise in mobile app development, UI/UX design, and workflow automation. Experienced in mentoring large student groups, leading design-to-development pipelines, and delivering functional prototypes within academic settings. At Hewlett-Packard Enterprise, contributed to Android app development, CRM customization, process automation, and CI/CD optimization, while also serving as Scrum Master for multiple Agile teams. Strong background in front-end engineering, data analysis, and ML-powered insights from work at Sysfore Technologies. Known for improving system performance, reducing manual workloads, and creating smooth user experiences across both web and mobile applications.',
+      description: 'Dynamic and user-centric software professional with expertise in mobile app development, UI/UX design, and workflow automation. Experienced in mentoring large student groups, leading design-to-development, and delivering functional prototypes within academic settings. At Hewlett-Packard Enterprise, contributed to Android app development, CRM customization, process automation, while also serving as Scrum Master for multiple Agile teams. Strong background in front-end engineering, data analysis, and ML-powered insights from work at Sysfore Technologies. Known for improving system performance, reducing manual workloads, and creating smooth user experiences across both web and mobile applications.',
       download: 'Download Resume',
       jobs: [
         {
-          title: 'Student Assistant 1',
+          title: 'Student Assistant ',
           company: 'West Saxon University of Applied Sciences Zwickau',
           duration: '06/2025 - Present'
         },
