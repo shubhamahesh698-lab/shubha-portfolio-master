@@ -26,7 +26,7 @@ const translations = {
     },
     experience: {
       title: 'Berufserfahrung',
-      description: 'Ich entwerfe und implementiere innovative Lösungen zur Optimierung von Arbeitsabläufen und zur Unterstützung der Entscheidungsfindung. Vom Aufbau von Text-zu-SQL-Systemen für nahtlose Datenbankabfragen bis zur Automatisierung der CAD-Dimensionserkennung mit maschinellem Lernen, spezialisiere ich mich auf die Entwicklung datengetriebener Produkte, die die Produktivität steigern und Kosten für Unternehmen senken.',
+      description: ' Dynamischer und nutzerorientierter Software-Experte mit Fachkenntnissen in den Bereichen Entwicklung mobiler Apps, UI/UX-Design und Workflow-Automatisierung. Erfahren in der Betreuung großer Studentengruppen, der Leitung von Design-to-Development-Projekten und der Bereitstellung funktionaler Prototypen im akademischen Umfeld. Bei Hewlett-Packard Enterprise trug er zur Entwicklung von Android-Apps, zur CRM-Anpassung und zur Prozessautomatisierung bei und war gleichzeitig als Scrum Master für mehrere Agile-Teams tätig. Fundierte Kenntnisse in Frontend-Engineering, Datenanalyse und ML-gestützten Erkenntnissen aus der Arbeit bei Sysfore Technologies. Bekannt für die Verbesserung der Systemleistung, die Reduzierung manueller Arbeitsabläufe und die Schaffung einer reibungslosen Benutzererfahrung sowohl in Web- als auch in mobilen Anwendungen..',
       download: 'Lebenslauf herunterladen',
       jobs: [
         {
